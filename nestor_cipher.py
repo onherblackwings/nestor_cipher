@@ -1,5 +1,3 @@
-LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-
 #rule 1 must be mapped manually
 #no way for Python to recognize letters w/curves or w/o curves
 
