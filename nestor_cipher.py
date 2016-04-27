@@ -27,7 +27,7 @@ while c<len(first_rule):
     else:
         c+=1
     
-second_rule=''.join(odd+even) #even listed first followed by odd
+second_rule=''.join(odd+even) #odd listed first followed by even
 
 message=raw_input("Enter your message: ").upper()
 for i in message:
